@@ -8,9 +8,12 @@ Transform is a project which follows the story of a Ditto dropped off at the day
 ## About the game
 ### Features
 - Play as Ditto on an adventure to find its Mythical Egg
-- Transform into various Pokemon to use them in battle and use their overworld abilities
+- Overworld Transformation System
+- In battle Transformation System
 - NPCs may treat you differently depending on what you look like
 - Modern UIs
+- PMD music
+- PMD mugshots
 - Lucky Eggs act as currency
 - Whiteout counter for high scoring (with secret reward)
 
