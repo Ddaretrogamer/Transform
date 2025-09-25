@@ -43,9 +43,8 @@ For further assistance, join the [discord](https://discord.gg/5KaesJHx9e )!
 
 ## Credits
 ### Hack Developers
-Phantonomy
-
-Zatsu
+- Phantonomy
+- Zatsu
 
 ### Codebase
 - pokeemerald decomp, pret
@@ -56,13 +55,13 @@ Zatsu
 - main menu UI, Archie and Mudskip
 - options plus menu, Archie and Mudskip
 - heat start menu, vol
-- BW Summary Screen, Rave
+- BW Summary Screen, RavePossum
 - battle Ui, Nico
 - key item wheel, merpp
 - QoL field moves, psf
 - universal voicegroup, aichiya
 - field mugshots and nameplates, Mudskip + Tustin
-- battle speedup, alex
+- battle speedup, alexonl1ne
 - FRLG font, PurrfectDoodle
 
 ### Tools
@@ -71,28 +70,27 @@ Zatsu
 - triple layer metatiles converter tool, SBird
 
 ### Tilesets
-- ORAS tiles, leob 
-- desert, beach cave, temple tiles, Rahtek
+- ORAS tiles, leob0505 
+- Desert, Beach Cave, and Temple tilesets, Rahtek
 
 ### Music
-- PMD music, liberty twins + online google drive of transcribed midis
+- PMD music, LibertyTwins + online google drive of transcribed midis
 
 ### Other art
-- PMD Mugshots, PMD sprite repo (individual credits linked elsewhere)
+- PMD Mugshots, [PMD sprite repo](https://sprites.pmdcollab.org/), [specific credits](pmd_mugshot_credits.txt)
 - Stars on title screen, pokabbie
 - surfing pokemon OW sprites, Wally and others?
 - CFRU battle bgs, WesleyFG
 
 ### Other acknowledgement 
-- Transformation basics, Archie, wiz, Mudskip from the Pit.
+- Transformation basics, Archie, Wiz, Mudskip from the Pit.
 - Skip battle trainer intro, Jamie
 - Swimming code basis, pokabbie
-- Scripting tips, Celia dawn
+- Scripting tips, Celia Dawn
 - Copyright screen, idea borrowed from pokabbie
 - The homies in TAH
 
 ### Playtesters
-Celia Dawn
-
-Montblanc
+- Celia Dawn
+= Montblanc
 
