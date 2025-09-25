@@ -35,7 +35,7 @@ Transform is a project which follows the story of a Ditto dropped off at the day
 
 ### Download
 
-Download the zip file containing the patch file in the \[**Releases**\](https://github.com/Ddaretrogamer/Transform/releases) Section.
+Download the zip file containing the patch file in the [**Releases**\](https://github.com/Ddaretrogamer/Transform/releases) Section.
 
 **The zip file contains:**
 
