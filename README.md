@@ -94,5 +94,5 @@ For further assistance, join the [discord](https://discord.gg/5KaesJHx9e )!
 
 ### Playtesters
 - Celia Dawn
-= Montblanc
+- Montblanc
 
