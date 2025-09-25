@@ -42,6 +42,10 @@ This will automatically download your new poketransform.gba ROM for you to play!
 For further assistance, join the [discord](https://discord.gg/5KaesJHx9e )!
 
 ## Credits
+### Devs and contributions
+Phantonomy
+Zatsu
+
 ### Codebase
 - Pokemon emerald, gamefreak
 - pokeemerald decomp, pret
@@ -91,28 +95,3 @@ For further assistance, join the [discord](https://discord.gg/5KaesJHx9e )!
 Celia dawn
 Montblanc
 
-### Devs and contributions
-**Phantonomy**
-- Scripting
-- Mugshots modification and implementation
-- UI modification and implementation
-- Music modification and implementation
-- Transformation: initial implementation and other functionality (surf, waterfall, dive, arcanine speed, Weavile hop) 
-- XFORMs modification of PC
-- Title Screen
-- Writing
-- Mapping basis
-- General code things
-- Gameplay balance
-
-**Zatsu**
-- transformation: cleanup, structure, optimization, use from merpps item wheel, control of battle form, control of field moves (rock smash, strength, cut). And more.
-- In battle transformations
-- New party menu UI
-- Battle engine changes
-- Mapping cleanup
-- Scripting cleanup 
-- General code things but better
-
-
-more things to come i just know my own work better than Zatsu’s will ask for more in depth lists
