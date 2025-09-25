@@ -12,7 +12,7 @@ Transform is a project which follows the story of a Ditto dropped off at the day
 ### Table of Contents
 
 * [About the game](#about-the-game)
-* [Getting Started](#getting-started)
+* [How to play](#how-to-play)
 * [Support](#support)
 * [Credits](#credits)
 ---
@@ -31,7 +31,7 @@ Transform is a project which follows the story of a Ditto dropped off at the day
 * Lucky Eggs act as currency
 * Whiteout counter for high scoring (with secret reward)
 
-## Getting Started
+## How To Play
 
 ### Download
 
