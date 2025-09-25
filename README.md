@@ -17,7 +17,7 @@ Transform is a project which follows the story of a Ditto dropped off at the day
 ## Download
 ### Download the zip file containing the patch file in the [**Releases**](release link) Section.
 
-**the zip file contains**
+**The zip file contains:**
 - A patch file for poketransform, to be applied to Emerald
 - A copy of this ReadME file
 
