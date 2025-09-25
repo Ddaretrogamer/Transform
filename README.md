@@ -42,13 +42,12 @@ This will automatically download your new poketransform.gba ROM for you to play!
 For further assistance, join the [discord](https://discord.gg/5KaesJHx9e )!
 
 ## Credits
-### Devs and contributions
+### Hack Developers
 Phantonomy
 
 Zatsu
 
 ### Codebase
-- Pokemon emerald, gamefreak
 - pokeemerald decomp, pret
 - pokemerald-expansion, RHH
 
