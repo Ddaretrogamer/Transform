@@ -1,3 +1,5 @@
+![Transform Logo](Transform_Logo.png)
+
 # Pokemon Transform
 
 Transform is a project which follows the story of a Ditto dropped off at the daycare on Route 117 in the Hoenn region, tasked with obtaining an Egg. The thing is... no one, not even the Daycare Man, knows where Eggs come from. Additionally, Pokemon in the daycare seem quite confused about how they are supposed to be gaining EXP. You will to follow the journey of Ditto as it learns the secrets behind where Pokemon Eggs come from and how EXP is gained in the daycare.
