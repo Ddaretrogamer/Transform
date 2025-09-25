@@ -44,6 +44,7 @@ For further assistance, join the [discord](https://discord.gg/5KaesJHx9e )!
 ## Credits
 ### Devs and contributions
 Phantonomy
+
 Zatsu
 
 ### Codebase
@@ -92,6 +93,7 @@ Zatsu
 - The homies in TAH
 
 ### Playtesters
-Celia dawn
+Celia Dawn
+
 Montblanc
 
