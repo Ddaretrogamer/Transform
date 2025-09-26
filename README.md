@@ -80,7 +80,7 @@ For further assistance, join the [discord](https://discord.gg/5KaesJHx9e)!
 
 * Easyfade title screen colors, Bivurnum
 * main menu UI, Archie and Mudskip
-* options plus menu, Archie and Mudskip
+* options plus menu, theXaman, Archie and Mudskip
 * heat start menu, vol
 * BW Summary Screen, RavePossum
 * battle Ui, Nico
