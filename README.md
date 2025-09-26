@@ -78,7 +78,7 @@ For further assistance, join the [discord](https://discord.gg/5KaesJHx9e)!
 
 ### Features
 
-* Easyfade title screen colors, Bivurnium
+* Easyfade title screen colors, Bivurnum
 * main menu UI, Archie and Mudskip
 * options plus menu, Archie and Mudskip
 * heat start menu, vol
