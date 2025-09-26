@@ -50,7 +50,8 @@ Use [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/legacy/) to patch
 * Upload the Emerald.gba file to the "ROM file" section
 * Upload the poketransform patch file to the "Patch file" section
 * Look for a green checkmark and hit apply patch.
-  This will automatically download your new poketransform.gba ROM for you to play!
+  
+This will automatically download your new poketransform.gba ROM for you to play!
 
 ### Recommended Emulators
 
@@ -109,7 +110,7 @@ For further assistance, join the [discord](https://discord.gg/5KaesJHx9e)!
 
 * PMD Mugshots, [PMD sprite repo](https://sprites.pmdcollab.org/), [specific credits](https://www.google.com/search?q=pmd_mugshot_credits.txt)
 * Stars on title screen, pokabbie
-* surfing pokemon OW sprites, Wally and others?
+* surfing pokemon OW sprites, Wally217 and slawter666
 * CFRU battle bgs, WesleyFG
 
 ### Other acknowledgement
