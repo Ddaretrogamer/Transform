@@ -15,7 +15,7 @@ poketransform is a project which follows the story of a Ditto dropped off at the
 * [How to play](#how-to-play)
 * [Support](#support)
 * [Credits](#credits)
-* [For Developers](#
+* [For Developers](#for-developers)
 ---
 
 ## About the game
