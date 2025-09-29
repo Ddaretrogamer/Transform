@@ -15,6 +15,7 @@ poketransform is a project which follows the story of a Ditto dropped off at the
 * [How to play](#how-to-play)
 * [Support](#support)
 * [Credits](#credits)
+* [For Developers](#
 ---
 
 ## About the game
@@ -126,3 +127,6 @@ For further assistance, join the [discord](https://discord.gg/5KaesJHx9e)!
 
 * Celia Dawn
 * Montblanc
+
+## For Developers
+This project is open source, and you can find all of the code in this repo [here](https://github.com/Ddaretrogamer/Sun-and-Moon-Eclipse/tree/TARC2-Transform).
