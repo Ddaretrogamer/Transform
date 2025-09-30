@@ -109,7 +109,7 @@ For further assistance, join the [discord](https://discord.gg/5KaesJHx9e)!
 
 ### Other art
 
-* PMD Mugshots, [PMD sprite repo](https://sprites.pmdcollab.org/), [specific credits](https://www.google.com/search?q=pmd_mugshot_credits.txt)
+* PMD Mugshots, [PMD sprite repo](https://sprites.pmdcollab.org/), [specific credits](pmd_mugshot_credits.txt)
 * Stars on title screen, pokabbie
 * surfing pokemon OW sprites, Wally217 and slawter666
 * CFRU battle bgs, WesleyFG
