@@ -1,4 +1,4 @@
-![Transform Logo](Transform_Logo.png)
+![Transform Logo](Transform_Logo_Pink.png)
 
 # Pokemon Transform
 
