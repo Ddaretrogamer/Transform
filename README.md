@@ -39,7 +39,7 @@ poketransform is a project which follows the story of a Ditto dropped off at the
 ### Download
 You can patch your **legally obtained copy of Emerald** directly on the [poketransform patching site](https://teamaquashideout.github.io/tah-patchsite/hacks/transform/). 
 
-Alternativelty, download the zip file containing the patch file in the **Releases** section [here](https://github.com/Ddaretrogamer/Transform/releases).
+Alternatively, you can download the zip file containing the patch file in the **Releases** section [here](https://github.com/Ddaretrogamer/Transform/releases).
 
 **The zip file contains:**
 
