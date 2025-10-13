@@ -96,7 +96,7 @@ For further assistance, join the [discord](https://discord.gg/5KaesJHx9e)!
 * heat start menu, vol
 * BW Summary Screen, RavePossum
 * battle Ui, Nico
-* key item wheel, merpp
+* key item wheel, merrp
 * QoL field moves, psf
 * universal voicegroup, aichiya
 * field mugshots and nameplates, Mudskip + Tustin
